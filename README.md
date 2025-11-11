@@ -36,7 +36,7 @@ The **Advanced Version** of Altissia Booster - A powerful automation tool with g
 
 ### The Evolution
 
-After building the [basic version](https://github.com/yourusername/altissiaBooster), I realized I needed more control:
+After building the [basic version](https://github.com/alaneisenbergg/altissiaBooster), I realized I needed more control:
 
 - ❌ **Basic Version**: Completes random tasks automatically
 - ✅ **Advanced Version**: Choose exactly which tasks to complete
